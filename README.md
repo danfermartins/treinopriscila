@@ -1,5 +1,5 @@
 # treinopriscila
 
-Ficha de treino da Priscila Martins — Leo Personal.
+Esta ficha mudou para o app único do Leo Personal: https://danfermartins.github.io/leo-treinos/alunos/priscila/
 
-App: https://danfermartins.github.io/treinopriscila/
+Repositório novo: https://github.com/danfermartins/leo-treinos
