@@ -2,7 +2,7 @@
    Estratégia: network-first para o HTML (pega atualizações quando há rede),
    cache-first para ícones e assets. Funciona offline depois da 1ª visita. */
 
-const VERSION = 'leo-treino-priscila-v1';
+const VERSION = 'leo-treino-priscila-v2';
 const ASSETS = [
   './',
   './index.html',
